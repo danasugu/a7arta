@@ -1,6 +1,6 @@
 # wp_flutter_doi
 
-A new Flutter application.
+A new Flutter application for a friend @ www.a7arta.ro.
 
 ## Getting Started
 
